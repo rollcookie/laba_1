@@ -1,0 +1,3 @@
+﻿  Colors.cpp
+C:\Users\Dima\source\repos\Colors\Colors\Colors.cpp(387): warning C4715: calcColor: значение возвращается не при всех путях выполнения
+  Colors.vcxproj -> C:\Users\Dima\source\repos\Colors\x64\Debug\Colors.exe

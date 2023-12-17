@@ -1,0 +1,9 @@
+Colors/ColorTab.cpp
+Colors/ColorTab.h
+Colors/Colors.cpp
+Colors/Colors.h
+Colors/main.cpp
+Colors/x64/Debug/moc/moc_ColorTab.cpp
+Colors/x64/Debug/moc/moc_Colors.cpp
+Colors/x64/Debug/rcc/qrc_Colors.cpp
+Colors/x64/Debug/uic/ui_Colors.h
